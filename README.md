@@ -1,4 +1,5 @@
 **ASSIGNMENT**
+
 Difference between float and double - Both float and double are data types in many programming languages used to store floating-point numbers such as(3.14, 2.5) etc. Their main difference lies in the level of precision offered. A float offers a single-precision floating point while a double offers a double offers a double-precions of floating-numbers. A double ussually has a high accuracy than float and thus suitable for scientific calculations compared to a float.
 
 Character and String - A character is a fundamental data type that contains a single letter, integer, punctuation mark or a symbol eg('a', 'B', 5', '!').They are enclosed in single quotes during presentation used for Storing individual characters, parsing text character by character and working with character arrays. Strings on the other hand is not a fundamental data type in C++ but rather a data type in the standard library. eg (std::string).Strings are commonly used for storing words, sentences, file paths, user input, and generally handling any sequence of textual information.
